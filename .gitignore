@@ -1,4 +1,5 @@
-data/
+data/counts/
+data/stats/
 logs/
 output/
 job_logs/
@@ -7,6 +8,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.svg
 *.png
+*.gz
 cluster_logs/
 NGmerge/
-!data/200102_tf_orf_library.csv

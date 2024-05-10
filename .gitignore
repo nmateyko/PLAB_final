@@ -9,3 +9,4 @@ __pycache__/
 *.png
 cluster_logs/
 NGmerge/
+!data/200102_tf_orf_library.csv

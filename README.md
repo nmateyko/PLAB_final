@@ -39,7 +39,7 @@ All code used for analysis can be found in Jupyter notebooks in the `analysis` d
 
 ### 1. Move count files to the data directory
 
-Transfer the pre-processed count files, or the count files generated from the processing steps above, to `data/counts`.
+Transfer the count files generated from the processing steps above to `data/counts`, or extract the pre-processed count files in `data/counts.tar.gz`.
 
 ### 2. Create a virtual environment
 

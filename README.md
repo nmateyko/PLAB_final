@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains all code required to reproduce the results of (insert paper link here).
+This repository contains all code required to reproduce the results of Culture wars: Empirically determining the best approach for plasmid library amplification.
 
 ## Processing pipeline
 
